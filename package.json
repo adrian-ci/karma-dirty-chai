@@ -20,7 +20,7 @@
   "homepage": "https://github.com/prodatakey/karma-dirty-chai",
   "peerDependencies": {
     "karma": ">=0.10",
-    "chai": ">4",
+    "chai": "^4.1.2",
     "dirty-chai": "^2.0.1"
   }
 }
